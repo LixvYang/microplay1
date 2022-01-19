@@ -1,4 +1,4 @@
-//% weight=0 color=#0fbc11  icon="\uf207" block="led"
+//% weight=0 color=#5f9cd8  block="led"
 namespace led {
 
 
